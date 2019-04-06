@@ -7,6 +7,10 @@ Topology for our super simple cluster base on using:
 * 3 nodes as shards (ReplicaSet)
 * 9 nodes for Replication (include 3 nodes as Arbiter)
 
+## Download MongoDB (4.0.8 = latest) Image for Docker
+```sh
+docker pull mongo
+```
 ## Docker network
 Create docker net for our cluster:
 ```sh
