@@ -1,0 +1,2 @@
+# docker_mongodb_sharding_replication
+sharding/ruplication implementation with mongodb using docker
