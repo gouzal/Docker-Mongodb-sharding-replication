@@ -1,4 +1,5 @@
-# docker_mongodb_sharding_replication
+# docker mongodb sharding/replication
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 This article will help you to configure and run simple MongoDB Sharding/Replication cluster based on Docker.
 ## Topology
 Topology for our super simple cluster base on using:
