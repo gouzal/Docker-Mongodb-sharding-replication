@@ -146,7 +146,7 @@ docker exec -it  router0 mongo --port 27017 --eval '
 License
 ----
 
-MIT
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 
 **Free Software, Hell Yeah!**
